@@ -1,5 +1,5 @@
 # Cat-FAST
-### Using FAST API by OCLC to retrieve suggestions for MARC subject fields
+### Using FAST API by OCLC to retrieve suggestions while automatically filtering for specific MARC subject fields. 
 
 __To do:__
 
