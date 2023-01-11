@@ -7,8 +7,9 @@ __To do:__
 * User input for "facet" - Configure a keyword for "suggestall" facet search
 * User input for "facet" - return error message and help guidance if entry isn't a valid MARC field number
 * Test JSON reply https://youtu.be/tb8gHvYlCFs?t=931
+* Tidy response text
 
-__ Resources:__
+__Resources:__
 
 <https://www.oclc.org/developer/api/oclc-apis/fast-api/linked-data.en.html>
 
